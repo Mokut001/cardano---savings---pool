@@ -1,0 +1,1 @@
+-- Smart contract will be pasted here
