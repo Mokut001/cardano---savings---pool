@@ -1,7 +1,17 @@
-# Cardano Vault DApp
-*Cardano Savings Pool* 
-This DApp is a non-custodial, smart contract-powered vault designed for the Cardano blockchain. It allows users to securely lock their ADA into a Plutus V2 validator and withdraw it at any time, ensuring that funds are governed by code rather than a centralized entity.
+
+# Savings Vault DApp (Cardano)
+
+A professional DeFi savings vault on Cardano.
+Users lock ADA until a target amount is reached, then withdraw securely.
+
+## Stack
+- Plutus (Haskell)
+- React + Tailwind
+- Lucid + CIP-30 wallets
+- Blockfrost (Mainnet)
+
 ## Features
-- Secure Plutus V2 locking.
-- Easy Deposit/Withdraw.
-- Mobile optimized.
+- Target-based ADA savings
+- Auto-lock until goal reached
+- Multi-wallet support
+- Production-ready UI
